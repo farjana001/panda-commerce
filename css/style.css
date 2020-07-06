@@ -1,7 +1,7 @@
 .container{
     margin-bottom: 100px;
 }
-.slider-bg{
+.colored-bg{
     background-color: #fceae8;
     border-radius: 10px;
 }
@@ -41,4 +41,22 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h3{
+    color: #444343;
+}
+#subscribe h6{
+    color: gray;
+    margin-bottom: 510
+}
+.form-control{
+    margin-bottom: 5px;
+}
+
+
+footer p{
+    text-align: center;
 }
